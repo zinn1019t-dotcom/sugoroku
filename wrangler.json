@@ -1,7 +1,6 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "my-project",
-  "main": "src/index.js",
+  "name": "robot-dice",
+  "compatibility_date": "2026-08-13",
   "assets": {
     "directory": "."
   }
