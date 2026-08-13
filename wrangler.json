@@ -1,0 +1,8 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "my-project",
+  "main": "src/index.js",
+  "assets": {
+    "directory": "."
+  }
+}
